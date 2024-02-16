@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BioSampleSet>
+  <BioSample access="controlled-access" publication_date="2017-03-06T23:50:11.830" last_update="2019-07-04T03:07:21.693" submission_date="2017-03-06T23:50:11.830" id="6512631" accession="SAMN06512631">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMN06512631</Id>
+      <Id db="dbGaP" db_label="Sample name" is_hidden="1">1265-92642</Id>
+    </Ids>
+    <Description>
+      <Title>Non-tumor DNA sample from blood of a human participant in the dbGaP study "DRIVE Breast Cancer OncoArray Genotypes"</Title>
+      <Organism taxonomy_id="9606" taxonomy_name="Homo sapiens"/>
+    </Description>
+    <Owner>
+      <Name abbreviation="NCBI"/>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="gap_accession" harmonized_name="gap_accession" display_name="gap accession">phs001265</Attribute>
+      <Attribute attribute_name="submitter handle" harmonized_name="submitter_handle" display_name="submitter handle">OncoArray_DRIVE</Attribute>
+      <Attribute attribute_name="biospecimen repository" harmonized_name="biospecimen_repository" display_name="biospecimen repository">OncoArray_DRIVE</Attribute>
+      <Attribute attribute_name="study name" harmonized_name="study_name" display_name="study name">DRIVE Breast Cancer OncoArray Genotypes</Attribute>
+      <Attribute attribute_name="study design" harmonized_name="study_design" display_name="study design">Case-Control</Attribute>
+      <Attribute attribute_name="biospecimen repository sample id" harmonized_name="biospecimen_repository_sample_id" display_name="biospecimen repository sample id">92642</Attribute>
+      <Attribute attribute_name="submitted sample id" harmonized_name="submitted_sample_id" display_name="submitted sample id">92642</Attribute>
+      <Attribute attribute_name="submitted subject id" harmonized_name="submitted_subject_id" display_name="submitted subject id">BCAC-50531970</Attribute>
+      <Attribute attribute_name="gap_sample_id" harmonized_name="gap_sample_id" display_name="gap sample id">2338280</Attribute>
+      <Attribute attribute_name="gap_subject_id" harmonized_name="gap_subject_id" display_name="gap subject id">1900420</Attribute>
+      <Attribute attribute_name="body site" harmonized_name="tissue" display_name="tissue">blood</Attribute>
+      <Attribute attribute_name="histological type" harmonized_name="histological_type" display_name="histological type">not applicable</Attribute>
+      <Attribute attribute_name="analyte type" harmonized_name="analyte_type" display_name="analyte type">DNA</Attribute>
+      <Attribute attribute_name="is tumor" harmonized_name="is_tumor" display_name="is tumor">No</Attribute>
+      <Attribute attribute_name="subject is affected" harmonized_name="subject_is_affected" display_name="subject is affected">No</Attribute>
+      <Attribute attribute_name="molecular data type" harmonized_name="molecular_data_type" display_name="molecular data type">SNP Genotypes (Array)</Attribute>
+      <Attribute attribute_name="gap_consent_code" harmonized_name="gap_consent_code" display_name="gap consent code">2</Attribute>
+      <Attribute attribute_name="gap_consent_short_name" harmonized_name="gap_consent_short_name" display_name="gap consent short name">DS-BROC</Attribute>
+    </Attributes>
+    <Status status="live" when="2019-07-04T02:08:37"/>
+  </BioSample>
+</BioSampleSet>
+
