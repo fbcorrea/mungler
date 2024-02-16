@@ -9,11 +9,11 @@ MunGLER utilizes Large Language Models (LLMs) to unravel sample metadata from DN
 - [Hardware requirements](#hardware-requirements)
 - [Usage](#usage)
 - [Rationale](#rationale)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Visual Concept
 
+![diagram](images/diagram.jpg) 
 
 ## Installation
 
@@ -82,16 +82,10 @@ mungler
 
 ## Rationale
 
-**mungler** takes as input accession numbers from SRA, access its metadata and tries to fill metadata fields 
+**mungler** takes as input accession numbers from SRA, access its metadata and tries to fill metadata fields.
 
-Before:
-
-After:
-
-
-## Contributing
-
-Guidelines on how to contribute to the project.
+Hypothetical outcome
+![missing_values](images/missing_values.png) 
 
 ## License
 
