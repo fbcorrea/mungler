@@ -5,16 +5,30 @@ Short description of the project.
 ## Table of Contents
 
 - [Installation](#installation)
+- [Hardware requirements](#hardware-requirements)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
-
+First clone this repository
 ```bash
-git clone 
+git clone https://github.com/fbcorrea/mungler.git
 ```
 
+Create a conda environment. I recommend using Mamba.
+```bash
+mamba create -n mungler
+```
+
+Install python packages using pip
+```bash
+pip install -r requirements.txt
+```
+
+## Hardware requirements
+
+Hardware requirements will be associated with the model used. Usually, the larger the model, more memory it will require.
 
 ## Usage
 
@@ -27,34 +41,3 @@ Guidelines on how to contribute to the project.
 ## License
 
 Information about the project's license.
-
-# Project Name
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
-## Description
-
-A brief description of your project.
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Installation
-
-Instructions on how to install and run your project.
-
-## Usage
-
-Instructions on how to use your project.
-
-## Contributing
-
-Guidelines on how to contribute to your project.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
