@@ -11,7 +11,10 @@ Short description of the project.
 
 ## Installation
 
-Instructions on how to install and set up the project.
+```bash
+git clone 
+```
+
 
 ## Usage
 
