@@ -1,0 +1,2 @@
+BioSample	analyte_type	biospecimen_repository	biospecimen_repository_sample_id	gap_accession	gap_consent_code	gap_consent_short_name	gap_sample_id	gap_subject_id	histological_type	is_tumor	molecular_data_type	study_design	study_name	subject_is_affected	submitted_sample_id	submitted_subject_id	submitter_handle	tissue
+SAMN06512631	DNA	OncoArray_DRIVE	92642	phs001265	2	DS-BROC	2338280	1900420	not applicable	No	SNP Genotypes (Array)	Case-Control	DRIVE Breast Cancer OncoArray Genotypes	No	92642	BCAC-50531970	OncoArray_DRIVE	blood
