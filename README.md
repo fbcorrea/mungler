@@ -1,4 +1,4 @@
-# MunGLER - Metadata UntanGLER
+# MunGLER - Metadata UNtanGLER
 
 MunGLER utilizes Large Language Models (LLMs) to unravel sample metadata from DNA sequencing data within the Sequence Read Archive.
 
